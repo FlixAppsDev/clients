@@ -23,6 +23,10 @@
       "MaxInterstitial":"",
       "MaxBanner":"",
       "MaxNative" : "",
+	    
+      "YandexInterstitial":"demo-interstitial-yandex",
+      "YandexBanner":"demo-banner-yandex",
+      "YandexNative" : "demo-native-content-yandex",
 
       "IronKey" : "",
       "AdsCount" : "3",  
@@ -32,7 +36,7 @@
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"admob"
+      "Switch":"fan"
 	  
  
     }
