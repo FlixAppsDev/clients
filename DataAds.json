@@ -17,8 +17,8 @@
          "AdsCount":"3",
          "ActiveApp":"yes",
          "AdsSwitchBanner":"admob",
-         "AdsSwitchInterstitial":"fan",
-         "AdsSwitchNative":"fan"
+         "AdsSwitchInterstitial":"admob",
+         "AdsSwitchNative":"admob"
       }
    ]
 }
