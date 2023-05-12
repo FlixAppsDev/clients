@@ -26,7 +26,7 @@
       "ActiveApp" : "yes",
      
       "AdsSwitchBanner":"admob",
-	    "adsSwitchInterstitial":"fan",
+      "AdsSwitchInterstitial":"fan",
       "AdsSwitchNative":"fan"
 
  
