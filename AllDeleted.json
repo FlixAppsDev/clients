@@ -1,0 +1,17 @@
+{
+
+
+  "data":[
+    {
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+   
+      "IronKey" : "1a83bb7e5",
+      "AdsCount" : "2",    
+      "Switch":"admob"
+	 
+    }
+  ]
+
+
+}
