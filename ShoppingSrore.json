@@ -29,14 +29,14 @@
       "YandexNative" : "demo-native-content-yandex",
 
       "IronKey" : "",
-      "AdsCount" : "2",  
+      "AdsCount" : "3",  
       
       "UrlSite":"https://akwam.guru/",
       
       "ActiveApp" : "yes",
       "ActiveWeb" : "yes",
      
-      "Switch":"admob"
+      "Switch":"fan"
 	  
  
     }
